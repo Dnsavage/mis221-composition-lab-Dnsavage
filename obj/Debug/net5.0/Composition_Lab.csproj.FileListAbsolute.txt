@@ -1,0 +1,16 @@
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\Composition_Lab\bin\Debug\net5.0\Composition_Lab.exe
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\Composition_Lab\bin\Debug\net5.0\Composition_Lab.deps.json
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\Composition_Lab\bin\Debug\net5.0\Composition_Lab.runtimeconfig.json
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\Composition_Lab\bin\Debug\net5.0\Composition_Lab.runtimeconfig.dev.json
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\Composition_Lab\bin\Debug\net5.0\Composition_Lab.dll
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\Composition_Lab\bin\Debug\net5.0\ref\Composition_Lab.dll
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\Composition_Lab\bin\Debug\net5.0\Composition_Lab.pdb
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\Composition_Lab\obj\Debug\net5.0\Composition_Lab.csproj.AssemblyReference.cache
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\Composition_Lab\obj\Debug\net5.0\Composition_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\Composition_Lab\obj\Debug\net5.0\Composition_Lab.AssemblyInfoInputs.cache
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\Composition_Lab\obj\Debug\net5.0\Composition_Lab.AssemblyInfo.cs
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\Composition_Lab\obj\Debug\net5.0\Composition_Lab.csproj.CoreCompileInputs.cache
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\Composition_Lab\obj\Debug\net5.0\Composition_Lab.dll
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\Composition_Lab\obj\Debug\net5.0\ref\Composition_Lab.dll
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\Composition_Lab\obj\Debug\net5.0\Composition_Lab.pdb
+C:\Users\Plati\Desktop\School Work\Fall 21\MIS-221\repos\Composition_Lab\obj\Debug\net5.0\Composition_Lab.genruntimeconfig.cache
